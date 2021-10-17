@@ -86,4 +86,4 @@ from math import sqrt
 
 # Calculate the RMSE
 temp_pred_err = MSE(one_step_df.T_mu_actual, one_step_df.T_mu_pred, squared=False)
-print("The RMSE is",temp_pred_err)
+print("H ΡΙΖΑ ΜΕΣΟΥ ΤΕΤΡΑΓΩΝΙΚΟΥ ΣΦΑΛΜΑΤΟΣ ΕΙΝΑΙ:",temp_pred_err)
