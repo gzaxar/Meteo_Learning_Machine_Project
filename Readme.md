@@ -3378,7 +3378,7 @@ white'><span style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-
  <v:imagedata src="Photos/Smoothing_Graph.png"
   o:title="Smoothing_Graph-300x161"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=491 height=264
-src="Photos/image010.gif"
+src="Photos/Smoothing_Graph.png"
 alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2021/10/Smoothing_Graph-300x161.png"
 v:shapes="Εικόνα_x0020_1"><![endif]></span></p>
 
