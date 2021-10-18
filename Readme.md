@@ -2466,10 +2466,10 @@ style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
 "Times New Roman";color:#2C2C2C;mso-fareast-language:ES;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
  id="Εικόνα_x0020_4" o:spid="_x0000_i1028" type="#_x0000_t75" alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2021/10/Weathe-Meteo-Kit-300x300.jpg"
  style='width:225pt;height:225pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="Photos/image005.jpg"
+ <v:imagedata src="Photos/Weathe Meteo Kit.jpg"
   o:title="Weathe-Meteo-Kit-300x300"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=300 height=300
-src="Photos/image005.jpg"
+src="Photos/Weathe Meteo Kit.jpg"
 alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2021/10/Weathe-Meteo-Kit-300x300.jpg"
 v:shapes="Εικόνα_x0020_4"><![endif]></span><span lang=EN-US style='font-size:
 12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
