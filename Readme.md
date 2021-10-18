@@ -25,18 +25,21 @@ w\:* {behavior:url(#default#VML);}
   <o:Author>Γεώργιος Ζαχαριάδης</o:Author>
   <o:LastAuthor>Γεώργιος Ζαχαριάδης</o:LastAuthor>
   <o:Revision>2</o:Revision>
-  <o:TotalTime>2</o:TotalTime>
-  <o:Created>2021-10-18T19:38:00Z</o:Created>
-  <o:LastSaved>2021-10-18T19:38:00Z</o:LastSaved>
-  <o:Pages>1</o:Pages>
-  <o:Words>1704</o:Words>
-  <o:Characters>9376</o:Characters>
-  <o:Lines>78</o:Lines>
-  <o:Paragraphs>22</o:Paragraphs>
-  <o:CharactersWithSpaces>11058</o:CharactersWithSpaces>
+  <o:TotalTime>11</o:TotalTime>
+  <o:Created>2021-10-18T19:52:00Z</o:Created>
+  <o:LastSaved>2021-10-18T19:52:00Z</o:LastSaved>
+  <o:Pages>10</o:Pages>
+  <o:Words>1939</o:Words>
+  <o:Characters>10669</o:Characters>
+  <o:Lines>88</o:Lines>
+  <o:Paragraphs>25</o:Paragraphs>
+  <o:CharactersWithSpaces>12583</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
 </xml><![endif]-->
+<link rel=dataStoreItem
+href="Meteo%20Machine%20Learning%20Project.files/item0001.xml"
+target="Meteo%20Machine%20Learning%20Project.files/props002.xml">
 <link rel=themeData
 href="Meteo%20Machine%20Learning%20Project.files/themedata.thmx">
 <link rel=colorSchemeMapping
@@ -660,6 +663,13 @@ href="Meteo%20Machine%20Learning%20Project.files/colorschememapping.xml">
 	mso-font-pitch:variable;
 	mso-font-signature:-536869121 1107305727 33554432 0 415 0;}
 @font-face
+	{font-family:"Calibri Light";
+	panose-1:2 15 3 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-469750017 -1073732485 9 0 511 0;}
+@font-face
 	{font-family:Calibri;
 	panose-1:2 15 5 2 2 2 4 3 2 4;
 	mso-font-charset:0;
@@ -705,6 +715,68 @@ h1
 	mso-fareast-font-family:"Times New Roman";
 	mso-font-kerning:1.5pt;
 	font-weight:bold;}
+h2
+	{mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-link:"Επικεφαλίδα 2 Char";
+	mso-style-next:Βασικό;
+	margin-top:2.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	line-height:106%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	mso-hyphenate:none;
+	text-autospace:ideograph-other;
+	font-size:13.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#2E74B5;
+	mso-themecolor:accent1;
+	mso-themeshade:191;
+	mso-fareast-language:EN-US;
+	font-weight:normal;}
+h3
+	{mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-link:"Επικεφαλίδα 3 Char";
+	mso-style-next:Βασικό;
+	margin-top:2.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	line-height:106%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:3;
+	mso-hyphenate:none;
+	text-autospace:ideograph-other;
+	font-size:12.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#1F4D78;
+	mso-themecolor:accent1;
+	mso-themeshade:127;
+	mso-fareast-language:EN-US;
+	font-weight:normal;}
 h4
 	{mso-style-unhide:no;
 	margin-top:5.0pt;
@@ -719,8 +791,43 @@ h4
 	font-family:"Times New Roman",serif;
 	mso-fareast-font-family:"Times New Roman";
 	font-weight:bold;}
+p.MsoToc2, li.MsoToc2, div.MsoToc2
+	{mso-style-update:auto;
+	mso-style-priority:39;
+	mso-style-next:Βασικό;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:5.0pt;
+	margin-left:11.0pt;
+	line-height:106%;
+	mso-pagination:widow-orphan;
+	mso-hyphenate:none;
+	text-autospace:ideograph-other;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-font-family:Calibri;
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:EN-US;}
+p.MsoToc3, li.MsoToc3, div.MsoToc3
+	{mso-style-update:auto;
+	mso-style-priority:39;
+	mso-style-next:Βασικό;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:5.0pt;
+	margin-left:22.0pt;
+	line-height:106%;
+	mso-pagination:widow-orphan;
+	mso-hyphenate:none;
+	text-autospace:ideograph-other;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-font-family:Calibri;
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:EN-US;}
 a:link, span.MsoHyperlink
-	{mso-style-unhide:no;
+	{mso-style-priority:99;
+	mso-style-unhide:no;
 	color:blue;
 	text-underline:#000000;
 	text-decoration:underline;
@@ -755,6 +862,34 @@ pre
 	font-size:10.0pt;
 	font-family:"Courier New";
 	mso-fareast-font-family:"Times New Roman";}
+p.MsoTocHeading, li.MsoTocHeading, div.MsoTocHeading
+	{mso-style-priority:39;
+	mso-style-qformat:yes;
+	mso-style-parent:"Επικεφαλίδα 1";
+	mso-style-next:Βασικό;
+	margin-top:12.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	line-height:107%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-hyphenate:auto;
+	text-autospace:ideograph-numeric ideograph-other;
+	font-size:16.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#2E74B5;
+	mso-themecolor:accent1;
+	mso-themeshade:191;}
 span.1Char
 	{mso-style-name:"Επικεφαλίδα 1 Char";
 	mso-style-unhide:no;
@@ -791,6 +926,46 @@ span.-HTMLChar
 	mso-hansi-font-family:"Courier New";
 	mso-bidi-font-family:"Courier New";
 	mso-fareast-language:ES;}
+span.2Char
+	{mso-style-name:"Επικεφαλίδα 2 Char";
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Επικεφαλίδα 2";
+	mso-ansi-font-size:13.0pt;
+	mso-bidi-font-size:13.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#2E74B5;
+	mso-themecolor:accent1;
+	mso-themeshade:191;}
+span.3Char
+	{mso-style-name:"Επικεφαλίδα 3 Char";
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Επικεφαλίδα 3";
+	mso-ansi-font-size:12.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#1F4D78;
+	mso-themecolor:accent1;
+	mso-themeshade:127;}
 .MsoChpDefault
 	{mso-style-type:export-only;
 	mso-default-props:yes;
@@ -820,8 +995,8 @@ div.WordSection1
 	{page:WordSection1;}
  /* List Definitions */
  @list l0
-	{mso-list-id:328408615;
-	mso-list-template-ids:-352946026;}
+	{mso-list-id:408038812;
+	mso-list-template-ids:130311868;}
 @list l0:level1
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
@@ -913,8 +1088,8 @@ div.WordSection1
 	mso-ascii-font-family:Symbol;
 	mso-hansi-font-family:Symbol;}
 @list l1
-	{mso-list-id:1034428685;
-	mso-list-template-ids:781763278;}
+	{mso-list-id:1036781267;
+	mso-list-template-ids:-488994490;}
 @list l1:level1
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
@@ -1006,8 +1181,8 @@ div.WordSection1
 	mso-ascii-font-family:Symbol;
 	mso-hansi-font-family:Symbol;}
 @list l2
-	{mso-list-id:1530487392;
-	mso-list-template-ids:-1445432824;}
+	{mso-list-id:1440099691;
+	mso-list-template-ids:958015816;}
 @list l2:level1
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
@@ -1099,8 +1274,8 @@ div.WordSection1
 	mso-ascii-font-family:Symbol;
 	mso-hansi-font-family:Symbol;}
 @list l3
-	{mso-list-id:1919899799;
-	mso-list-template-ids:-925860858;}
+	{mso-list-id:1803230172;
+	mso-list-template-ids:-433418928;}
 @list l3:level1
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
@@ -1192,8 +1367,8 @@ div.WordSection1
 	mso-ascii-font-family:Symbol;
 	mso-hansi-font-family:Symbol;}
 @list l4
-	{mso-list-id:1986354456;
-	mso-list-template-ids:1874741568;}
+	{mso-list-id:1821077572;
+	mso-list-template-ids:2038315844;}
 @list l4:level1
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
@@ -1285,8 +1460,8 @@ div.WordSection1
 	mso-ascii-font-family:Symbol;
 	mso-hansi-font-family:Symbol;}
 @list l5
-	{mso-list-id:2082867672;
-	mso-list-template-ids:-931874366;}
+	{mso-list-id:1993755208;
+	mso-list-template-ids:-2340204;}
 @list l5:level1
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
@@ -1418,6 +1593,31 @@ ul
 
 <div class=WordSection1>
 
+<p class=MsoNormal align=center style='margin-bottom:18.75pt;text-align:center;
+line-height:normal;background:white'><b style='mso-bidi-font-weight:normal'><span
+lang=EN-US style='font-size:16.0pt;mso-bidi-font-size:11.0pt;mso-ansi-language:
+EN-US'>Meteo Machine Learning Project<o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='margin-bottom:18.75pt;text-align:center;
+line-height:normal;background:white'><b style='mso-bidi-font-weight:normal'><span
+lang=EN-US style='font-size:16.0pt;mso-bidi-font-size:11.0pt;mso-ansi-language:
+EN-US'>4</span></b><b style='mso-bidi-font-weight:normal'><sup><span lang=EL
+style='font-size:16.0pt;mso-bidi-font-size:11.0pt;mso-ansi-language:EL'>ο</span></sup></b><b
+style='mso-bidi-font-weight:normal'><span lang=EL style='font-size:16.0pt;
+mso-bidi-font-size:11.0pt;mso-ansi-language:EN-US'> </span></b><b
+style='mso-bidi-font-weight:normal'><span lang=EL style='font-size:16.0pt;
+mso-bidi-font-size:11.0pt;mso-ansi-language:EL'>Δημοτικό</span></b><b
+style='mso-bidi-font-weight:normal'><span lang=EL style='font-size:16.0pt;
+mso-bidi-font-size:11.0pt;mso-ansi-language:EN-US'> </span></b><b
+style='mso-bidi-font-weight:normal'><span lang=EL style='font-size:16.0pt;
+mso-bidi-font-size:11.0pt;mso-ansi-language:EL'>Σχολείο</span></b><b
+style='mso-bidi-font-weight:normal'><span lang=EL style='font-size:16.0pt;
+mso-bidi-font-size:11.0pt;mso-ansi-language:EN-US'> </span></b><b
+style='mso-bidi-font-weight:normal'><span lang=EL style='font-size:16.0pt;
+mso-bidi-font-size:11.0pt;mso-ansi-language:EL'>Καλαμαριάς</span></b><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:16.0pt;
+mso-bidi-font-size:11.0pt;mso-ansi-language:EN-US'><o:p></o:p></span></b></p>
+
 <p class=MsoNormal style='margin-bottom:18.75pt;line-height:normal;background:
 white'><span style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
 "Times New Roman";color:#2C2C2C;mso-fareast-language:ES;mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype
@@ -1450,15 +1650,401 @@ src="Meteo%20Machine%20Learning%20Project.files/image002.gif"
 alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2021/10/Machine_learnng--300x151.png"
 v:shapes="Εικόνα_x0020_6"><![endif]></span></p>
 
-<p class=MsoNormal style='margin-bottom:18.75pt;line-height:normal;background:
-white'><span lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;
+<span lang=EL style='font-size:12.0pt;line-height:106%;font-family:"Arial",sans-serif;
 mso-fareast-font-family:"Times New Roman";color:#2C2C2C;mso-ansi-language:EL;
-mso-fareast-language:ES'>Είμαστε μια ομάδα μαθητών του 4ου Δημοτικού Σχολείου
-Καλαμαριάς και για τον 3ο ΠΑΝΕΛΛΗΝΙΟ ΔΙΑΓΩΝΙΣΜΟ ΑΝΟΙΧΤΩΝ ΤΕΧΝΟΛΟΓΙΩΝ ,
-αποφασίσαμε να υλοποιήσουμε μία εφαρμογή πρόβλεψης του καιρού στην περιοχή της
-Θεσσαλονίκης. Η Εφαρμογή θα χρησιμοποιεί και θα επεξεργάζεται δεδομένα
-χρονοσειρών για τον καιρό προηγούμενων χρονικών περιόδων και με την βοήθεια της
-τεχνολογίας </span><span style='font-size:12.0pt;font-family:"Arial",sans-serif;
+mso-fareast-language:ES;mso-bidi-language:AR-SA'><br clear=all
+style='mso-special-character:line-break;page-break-before:always'>
+</span>
+
+<p class=MsoNormal style='mso-hyphenate:auto'><span lang=EL style='font-size:
+12.0pt;line-height:106%;font-family:"Arial",sans-serif;mso-fareast-font-family:
+"Times New Roman";color:#2C2C2C;mso-ansi-language:EL;mso-fareast-language:ES'><o:p>&nbsp;</o:p></span></p>
+
+<w:Sdt SdtDocPart="t" DocPartType="Table of Contents" DocPartUnique="t"
+ ID="1328094395">
+ <p class=MsoTocHeading><span lang=EL style='mso-ansi-language:EL'>Περιεχόμενα</span><span
+ lang=EL style='mso-ansi-language:EL'><w:sdtPr></w:sdtPr></span></p>
+ <p class=MsoToc2 style='tab-stops:right dotted 481.4pt'><!--[if supportFields]><span
+ style='mso-element:field-begin'></span><span
+ style='mso-spacerun:yes'> </span>TOC \o &quot;1-3&quot; \h \z \u <span
+ style='mso-element:field-separator'></span><![endif]--><span
+ class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc85489949"><span
+ lang=EL style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:
+ EL;mso-fareast-language:ES'>Εισαγωγή</span><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-element:field-begin'></span></span><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'> PAGEREF _Toc85489949 \h </span><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-separator'></span></span><![endif]--><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'>2</span><span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000D0000005F0054006F006300380035003400380039003900340039000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
+ style='mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=MsoToc2 style='tab-stops:right dotted 481.4pt'><span
+ class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc85489950"><span
+ lang=EL style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:
+ EL;mso-fareast-language:ES'>ΣΕΝΑΡΙΟ ΔΡΑΣΤΗΡΙΟΤΗΤΑΣ</span><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-element:field-begin'></span></span><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'> PAGEREF _Toc85489950 \h </span><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-separator'></span></span><![endif]--><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'>2</span><span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000D0000005F0054006F006300380035003400380039003900350030000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
+ style='mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=MsoToc2 style='tab-stops:right dotted 481.4pt'><span
+ class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc85489951"><span
+ style='mso-fareast-font-family:"Times New Roman";mso-fareast-language:ES'>Φάση
+ Προετοιμασίας</span><span style='color:windowtext;display:none;mso-hide:screen;
+ text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-element:field-begin'></span></span><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'> PAGEREF _Toc85489951 \h </span><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-separator'></span></span><![endif]--><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'>2</span><span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000D0000005F0054006F006300380035003400380039003900350031000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
+ style='mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=MsoToc2 style='tab-stops:right dotted 481.4pt'><span
+ class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc85489952"><span
+ lang=EL style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:
+ EL;mso-fareast-language:ES'>Φάση Σχεδιασμού</span><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-element:field-begin'></span></span><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'> PAGEREF _Toc85489952 \h </span><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-separator'></span></span><![endif]--><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'>2</span><span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000D0000005F0054006F006300380035003400380039003900350032000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
+ style='mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=MsoToc2 style='tab-stops:right dotted 481.4pt'><span
+ class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc85489953"><span
+ lang=EL style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:
+ EL;mso-fareast-language:ES'>Φάση Υλοποίησης</span><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-element:field-begin'></span></span><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'> PAGEREF _Toc85489953 \h </span><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-separator'></span></span><![endif]--><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'>3</span><span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000D0000005F0054006F006300380035003400380039003900350033000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
+ style='mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=MsoToc2 style='tab-stops:right dotted 481.4pt'><span
+ class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc85489954"><span
+ lang=EL style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:
+ EL;mso-fareast-language:ES'>Φάση Δοκιμών</span><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-element:field-begin'></span></span><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'> PAGEREF _Toc85489954 \h </span><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-separator'></span></span><![endif]--><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'>3</span><span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000D0000005F0054006F006300380035003400380039003900350034000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
+ style='mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=MsoToc2 style='tab-stops:right dotted 481.4pt'><span
+ class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc85489955"><span
+ lang=EL style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:
+ EL;mso-fareast-language:ES'>Η Ιδέα</span><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-tab-count:1 dotted'>.. </span></span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-element:field-begin'></span></span><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'> PAGEREF _Toc85489955 \h </span><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-separator'></span></span><![endif]--><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'>3</span><span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000D0000005F0054006F006300380035003400380039003900350035000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
+ style='mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=MsoToc2 style='tab-stops:right dotted 481.4pt'><span
+ class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc85489956"><span
+ style='mso-fareast-font-family:"Times New Roman";mso-fareast-language:ES'>ΕΦΑΡΜΟΓΕΣ
+ ΠΟΥ ΧΡΗΣΙΜΟΠΟΙΗΣΑΜΕ:</span><span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-tab-count:1 dotted'> </span></span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-element:field-begin'></span></span><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'> PAGEREF _Toc85489956 \h </span><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-separator'></span></span><![endif]--><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'>3</span><span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000D0000005F0054006F006300380035003400380039003900350036000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
+ style='mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=MsoToc2 style='tab-stops:right dotted 481.4pt'><span
+ class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc85489957"><span
+ style='mso-fareast-font-family:"Times New Roman";mso-fareast-language:ES'>ΥΛΙΚΑ
+ ΠΟΥ ΧΡΗΣΙΜΟΠΟΙΗΣΑΜΕ</span><span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-element:field-begin'></span></span><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'> PAGEREF _Toc85489957 \h </span><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-separator'></span></span><![endif]--><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'>3</span><span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000D0000005F0054006F006300380035003400380039003900350037000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
+ style='mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=MsoToc2 style='tab-stops:right dotted 481.4pt'><span
+ class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc85489958"><span
+ lang=EL style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:
+ EL;mso-fareast-language:ES'>ΥΛΙΚΑ ΠΟΥ ΘΑ ΧΡΗΣΙΜΟΠΟΙΗΘΟΥΝ ΣΕ ΕΠΟΜΕΝΗ ΦΑΣΗ ΤΟΥ
+ ΕΡΓΟΥ</span><span style='color:windowtext;display:none;mso-hide:screen;
+ text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-element:field-begin'></span></span><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'> PAGEREF _Toc85489958 \h </span><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-separator'></span></span><![endif]--><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'>3</span><span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000D0000005F0054006F006300380035003400380039003900350038000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
+ style='mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=MsoToc2 style='tab-stops:right dotted 481.4pt'><span
+ class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc85489959"><span
+ style='mso-fareast-font-family:"Times New Roman";mso-fareast-language:ES'>Ο</span><span
+ style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EN-US;
+ mso-fareast-language:ES'> </span><span style='mso-fareast-font-family:"Times New Roman";
+ mso-fareast-language:ES'>ΚΩΔΙΚΑΣ</span><span style='mso-fareast-font-family:
+ "Times New Roman";mso-ansi-language:EN-US;mso-fareast-language:ES'> </span><span
+ style='mso-fareast-font-family:"Times New Roman";mso-fareast-language:ES'>ΜΑΣ</span><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-element:field-begin'></span></span><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'> PAGEREF _Toc85489959 \h </span><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-separator'></span></span><![endif]--><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'>4</span><span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000D0000005F0054006F006300380035003400380039003900350039000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
+ style='mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=MsoToc3 style='tab-stops:right dotted 481.4pt'><span
+ class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc85489960"><span
+ style='mso-fareast-font-family:"Times New Roman";mso-fareast-language:ES'>Α</span><span
+ style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EN-US;
+ mso-fareast-language:ES'> </span><span style='mso-fareast-font-family:"Times New Roman";
+ mso-fareast-language:ES'>Μέρος</span><span style='color:windowtext;display:
+ none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-element:field-begin'></span></span><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'> PAGEREF _Toc85489960 \h </span><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-separator'></span></span><![endif]--><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'>4</span><span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000D0000005F0054006F006300380035003400380039003900360030000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
+ style='mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=MsoToc3 style='tab-stops:right dotted 481.4pt'><span
+ class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc85489961"><span
+ style='mso-fareast-font-family:"Times New Roman";mso-fareast-language:ES'>Β΄Μέρος</span><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-element:field-begin'></span></span><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'> PAGEREF _Toc85489961 \h </span><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-separator'></span></span><![endif]--><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'>5</span><span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000D0000005F0054006F006300380035003400380039003900360031000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
+ style='mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=MsoToc3 style='tab-stops:right dotted 481.4pt'><span
+ class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc85489962"><span
+ style='mso-fareast-font-family:"Times New Roman";mso-fareast-language:ES'>Γ΄</span><span
+ style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EN-US;
+ mso-fareast-language:ES'> </span><span style='mso-fareast-font-family:"Times New Roman";
+ mso-fareast-language:ES'>Μέρος</span><span style='color:windowtext;display:
+ none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-element:field-begin'></span></span><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'> PAGEREF _Toc85489962 \h </span><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-separator'></span></span><![endif]--><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'>5</span><span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000D0000005F0054006F006300380035003400380039003900360032000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
+ style='mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=MsoToc3 style='tab-stops:right dotted 481.4pt'><span
+ class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc85489963"><span
+ style='mso-fareast-font-family:"Times New Roman";mso-fareast-language:ES'>Δ΄</span><span
+ style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EN-US;
+ mso-fareast-language:ES'> </span><span style='mso-fareast-font-family:"Times New Roman";
+ mso-fareast-language:ES'>Μέρος</span><span style='color:windowtext;display:
+ none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-element:field-begin'></span></span><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'> PAGEREF _Toc85489963 \h </span><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-separator'></span></span><![endif]--><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'>6</span><span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000D0000005F0054006F006300380035003400380039003900360033000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
+ style='mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=MsoToc2 style='tab-stops:right dotted 481.4pt'><span
+ class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc85489964"><span
+ lang=EL style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:
+ EL;mso-fareast-language:ES'>ΟΘΟΝΕΣ ΥΠΟΛΟΓΙΣΜΩΝ ΠΡΟΓΡΑΜΜΑΤΟΣ</span><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-element:field-begin'></span></span><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'> PAGEREF _Toc85489964 \h </span><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-separator'></span></span><![endif]--><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'>7</span><span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000D0000005F0054006F006300380035003400380039003900360034000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
+ style='mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=MsoToc2 style='tab-stops:right dotted 481.4pt'><span
+ class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc85489965"><span
+ lang=EL style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:
+ EL;mso-fareast-language:ES'>ΙΣΤΟΣΕΛΙΔΕΣ ΠΟΥ ΕΠΙΣΚΕΦΤΗΚΑΜΕ:</span><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-tab-count:1 dotted'> </span></span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'><span style='mso-element:field-begin'></span></span><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'> PAGEREF _Toc85489965 \h </span><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-separator'></span></span><![endif]--><span
+ style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+ text-underline:none'>8</span><span style='color:windowtext;display:none;
+ mso-hide:screen;text-decoration:none;text-underline:none'><!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000D0000005F0054006F006300380035003400380039003900360035000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
+ style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
+ style='mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=MsoNormal><!--[if supportFields]><b><span lang=EL style='mso-ansi-language:
+ EL'><span style='mso-element:field-end'></span></span></b><![endif]--><o:p>&nbsp;</o:p></p>
+</w:Sdt><span lang=EL style='font-size:11.0pt;line-height:106%;font-family:
+"Calibri",sans-serif;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:
+"Times New Roman";mso-ansi-language:EL;mso-fareast-language:ES;mso-bidi-language:
+AR-SA'><br clear=all style='mso-special-character:line-break;page-break-before:
+always'>
+</span>
+
+<p class=MsoNormal style='mso-hyphenate:auto'><a name="_Toc85489949"><span
+lang=EL style='font-size:13.0pt;line-height:106%;font-family:"Calibri Light",sans-serif;
+mso-ascii-theme-font:major-latin;mso-fareast-font-family:"Times New Roman";
+mso-hansi-theme-font:major-latin;mso-bidi-font-family:"Times New Roman";
+mso-bidi-theme-font:major-bidi;color:#2E74B5;mso-themecolor:accent1;mso-themeshade:
+191;mso-ansi-language:EL;mso-fareast-language:ES'><o:p>&nbsp;</o:p></span></a></p>
+
+<h2><span style='mso-bookmark:_Toc85489949'><span lang=EL style='mso-fareast-font-family:
+"Times New Roman";mso-ansi-language:EL;mso-fareast-language:ES'>Εισαγωγή</span></span><span
+lang=EL style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:
+EL;mso-fareast-language:ES'><o:p></o:p></span></h2>
+
+<p class=MsoNormal style='margin-bottom:18.75pt;text-align:justify;line-height:
+normal;background:white'><span lang=EL style='font-size:12.0pt;font-family:
+"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";color:#2C2C2C;
+mso-ansi-language:EL;mso-fareast-language:ES'>Είμαστε μια ομάδα μαθητών του 4ου
+Δημοτικού Σχολείου Καλαμαριάς και για τον 3ο ΠΑΝΕΛΛΗΝΙΟ ΔΙΑΓΩΝΙΣΜΟ ΑΝΟΙΧΤΩΝ
+ΤΕΧΝΟΛΟΓΙΩΝ , αποφασίσαμε να υλοποιήσουμε μία εφαρμογή πρόβλεψης του καιρού
+στην περιοχή της Θεσσαλονίκης. Η Εφαρμογή θα χρησιμοποιεί και θα επεξεργάζεται
+δεδομένα χρονοσειρών για τον καιρό προηγούμενων χρονικών περιόδων και με την
+βοήθεια της τεχνολογίας </span><span style='font-size:12.0pt;font-family:"Arial",sans-serif;
 mso-fareast-font-family:"Times New Roman";color:#2C2C2C;mso-fareast-language:
 ES'>Learning</span><span style='font-size:12.0pt;font-family:"Arial",sans-serif;
 mso-fareast-font-family:"Times New Roman";color:#2C2C2C;mso-ansi-language:EL;
@@ -1484,25 +2070,26 @@ lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-
 </span><span style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
 "Times New Roman";color:#2C2C2C;mso-fareast-language:ES'>python</span><span
 lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#2C2C2C;mso-ansi-language:EL;mso-fareast-language:ES'>.</span></p>
+"Times New Roman";color:#2C2C2C;mso-ansi-language:EL;mso-fareast-language:ES'>.</span><span
+lang=EL style='mso-ansi-language:EL'><o:p></o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:18.75pt;line-height:normal;background:
-white'><span lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#2C2C2C;mso-ansi-language:EL;
-mso-fareast-language:ES'>Στα χρονικά πλαίσια που είχαμε εντός του διαγωνισμού
-καταφέραμε να προγραμματίσουμε το μέρος της εφαρμογής που θα διαβάζει και θα
-επεξεργάζεται τα θερμοκρασιακά δεδομένα 5 ετών για την περιοχή του αεροδρομίου
-Θεσσαλονίκης με σκοπό να προβλέψει το πρόγραμμα μας την ποσοστό αστοχίας (σε
-βαθμούς Κελσίου) μεταξύ πρόβλεψης και πραγματικής τιμής της θερμοκρασίας για
-μία οποιαδήποτε ημέρα εντός των τελευταίων 4 ετών περίπου.<o:p></o:p></span></p>
+<p class=MsoNormal style='margin-bottom:18.75pt;text-align:justify;line-height:
+normal;background:white'><span lang=EL style='font-size:12.0pt;font-family:
+"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";color:#2C2C2C;
+mso-ansi-language:EL;mso-fareast-language:ES'>Στα χρονικά πλαίσια που είχαμε
+εντός του διαγωνισμού καταφέραμε να προγραμματίσουμε το μέρος της εφαρμογής που
+θα διαβάζει και θα επεξεργάζεται τα θερμοκρασιακά δεδομένα 5 ετών για την
+περιοχή του αεροδρομίου Θεσσαλονίκης με σκοπό να προβλέψει το πρόγραμμα μας την
+ποσοστό αστοχίας (σε βαθμούς Κελσίου) μεταξύ πρόβλεψης και πραγματικής τιμής
+της θερμοκρασίας για μία οποιαδήποτε ημέρα εντός των τελευταίων 4 ετών περίπου.<o:p></o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:18.75pt;line-height:normal;background:
-white'><span lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#2C2C2C;mso-ansi-language:EL;
-mso-fareast-language:ES'>Στα παραδοτέα του </span><span style='font-size:12.0pt;
-font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
-color:#2C2C2C;mso-fareast-language:ES'>project</span><span lang=EL
+<p class=MsoNormal style='margin-bottom:18.75pt;text-align:justify;line-height:
+normal;background:white'><span lang=EL style='font-size:12.0pt;font-family:
+"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";color:#2C2C2C;
+mso-ansi-language:EL;mso-fareast-language:ES'>Στα παραδοτέα του </span><span
 style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
+"Times New Roman";color:#2C2C2C;mso-fareast-language:ES'>project</span><span
+lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
 "Times New Roman";color:#2C2C2C;mso-ansi-language:EL;mso-fareast-language:ES'>
 μας θα είναι και η δημιουργία σελίδας εντός του </span><span style='font-size:
 12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
@@ -1510,21 +2097,21 @@ color:#2C2C2C;mso-fareast-language:ES'>site</span><span lang=EL
 style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
 "Times New Roman";color:#2C2C2C;mso-ansi-language:EL;mso-fareast-language:ES'>
 του σχολείου μας που θα παρουσιάζει αλλά και θα τρέχει την εφαρμογή πρόβλεψης
-καιρού κάποιος χρήστης για εκπαιδευτικούς σκοπούς.</span></p>
+καιρού κάποιος χρήστης για εκπαιδευτικούς σκοπούς.</span><span lang=EL
+style='mso-ansi-language:EL'><o:p></o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:18.75pt;line-height:normal;background:
-white'><span lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#2C2C2C;mso-ansi-language:EL;
-mso-fareast-language:ES'>Η εφαρμογή θα μπορεί μελλοντικά να χρησιμοποιήσει
-δεδομένα από τον υπό ανάπτυξη μετεωρολογικό σταθμό του σχολείου μας για να
-ελέγχει την αξιοπιστία των τιμών πρόβλεψης σε σχέση με τα πραγματικά
-μετεωρολογικά δεδομένα.<o:p></o:p></span></p>
+<p class=MsoNormal style='margin-bottom:18.75pt;text-align:justify;line-height:
+normal;background:white'><span lang=EL style='font-size:12.0pt;font-family:
+"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";color:#2C2C2C;
+mso-ansi-language:EL;mso-fareast-language:ES'>Η εφαρμογή θα μπορεί μελλοντικά
+να χρησιμοποιήσει δεδομένα από τον υπό ανάπτυξη μετεωρολογικό σταθμό του
+σχολείου μας για να ελέγχει την αξιοπιστία των τιμών πρόβλεψης σε σχέση με τα
+πραγματικά μετεωρολογικά δεδομένα.<o:p></o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:15.0pt;line-height:normal;background:
-white'><span lang=EL style='font-size:27.0pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#828282;text-transform:uppercase;
-mso-font-kerning:1.5pt;mso-ansi-language:EL;mso-fareast-language:ES'>ΣΕΝΑΡΙΟ
-ΔΡΑΣΤΗΡΙΟΤΗΤΑΣ<o:p></o:p></span></p>
+<h2><a name="_Toc85489950"><span lang=EL style='mso-fareast-font-family:"Times New Roman";
+mso-ansi-language:EL;mso-fareast-language:ES'>ΣΕΝΑΡΙΟ ΔΡΑΣΤΗΡΙΟΤΗΤΑΣ</span></a><span
+lang=EL style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:
+EL;mso-fareast-language:ES'><o:p></o:p></span></h2>
 
 <p class=MsoNormal style='margin-bottom:18.75pt;line-height:normal;background:
 white'><span lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;
@@ -1537,10 +2124,8 @@ mso-fareast-language:ES'>Αριθμός μαθητών: 3<br>
 </span><span style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
 "Times New Roman";color:#2C2C2C;mso-fareast-language:ES'>Ηλικιακή ομάδα: 11-12</span></p>
 
-<p class=MsoNormal style='margin-bottom:18.75pt;line-height:normal;background:
-white'><b><span style='font-size:12.0pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#2C2C2C;mso-fareast-language:
-ES'>Φάση Προετοιμασίας</span></b></p>
+<h2><a name="_Toc85489951"><span style='mso-fareast-font-family:"Times New Roman";
+mso-fareast-language:ES'>Φάση Προετοιμασίας</span></a></h2>
 
 <p class=MsoNormal style='margin-bottom:18.75pt;line-height:normal;background:
 white'><span lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;
@@ -1549,13 +2134,13 @@ mso-fareast-language:ES'>Οι μαθητές θα πρέπει να:<o:p></o:p><
 
 <ul style='margin-top:0cm' type=disc>
  <li class=MsoNormal style='color:#2C2C2C;margin-top:5.0pt;margin-bottom:5.0pt;
-     line-height:normal;mso-list:l0 level1 lfo1;background:white'><span
+     line-height:normal;mso-list:l5 level1 lfo1;background:white'><span
      lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
      "Times New Roman";mso-ansi-language:EL;mso-fareast-language:ES'>Αναζητήσουν
      στο διαδίκτυο για αντίστοιχες εφαρμογές που υλοποιούν διαδικασίες ανάλυσης
      δεδομένων και πρόβλεψης καιρού.<o:p></o:p></span></li>
  <li class=MsoNormal style='margin-top:5.0pt;margin-bottom:5.0pt;line-height:
-     normal;mso-list:l0 level1 lfo1;background:white'><span lang=EL
+     normal;mso-list:l5 level1 lfo1;background:white'><span lang=EL
      style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
      "Times New Roman";color:#2C2C2C;mso-ansi-language:EL;mso-fareast-language:
      ES'>Κατανοήσουν έννοιες όπως: θερμοκρασία, μέσοι όροι τιμών, χρονοσειρές
@@ -1569,27 +2154,27 @@ mso-fareast-language:ES'>Οι μαθητές θα πρέπει να:<o:p></o:p><
      color:#2C2C2C;mso-fareast-language:ES'>sensors</span><span lang=EL
      style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
      "Times New Roman";color:#2C2C2C;mso-ansi-language:EL;mso-fareast-language:
-     ES'>.</span></li>
+     ES'>.</span><span lang=EL style='mso-ansi-language:EL'><o:p></o:p></span></li>
  <li class=MsoNormal style='margin-top:5.0pt;margin-bottom:5.0pt;line-height:
-     normal;mso-list:l0 level1 lfo1;background:white'><span lang=EL
+     normal;mso-list:l5 level1 lfo1;background:white'><span lang=EL
      style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
      "Times New Roman";color:#2C2C2C;mso-ansi-language:EL;mso-fareast-language:
      ES'>Να διερευνήσουν για το καλύτερο και πιο φιλικού περιβάλλοντος
      προγραμματισμού </span><span style='font-size:12.0pt;font-family:"Arial",sans-serif;
      mso-fareast-font-family:"Times New Roman";color:#2C2C2C;mso-fareast-language:
-     ES'>Python</span></li>
+     ES'>Python</span><span lang=EL style='mso-ansi-language:EL'><o:p></o:p></span></li>
  <li class=MsoNormal style='color:#2C2C2C;margin-top:5.0pt;margin-bottom:5.0pt;
-     line-height:normal;mso-list:l0 level1 lfo1;background:white'><span
+     line-height:normal;mso-list:l5 level1 lfo1;background:white'><span
      lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
      "Times New Roman";mso-ansi-language:EL;mso-fareast-language:ES'>Να
      διερευνήσουν στο διαδίκτυο για αρχείο με μετεωρολογικά δεδομένα για την
      περιοχή της Θεσσαλονίκης<o:p></o:p></span></li>
 </ul>
 
-<p class=MsoNormal style='margin-bottom:18.75pt;line-height:normal;background:
-white'><b><span lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#2C2C2C;mso-ansi-language:EL;
-mso-fareast-language:ES'>Φάση Σχεδιασμού</span></b></p>
+<h2><a name="_Toc85489952"><span lang=EL style='mso-fareast-font-family:"Times New Roman";
+mso-ansi-language:EL;mso-fareast-language:ES'>Φάση Σχεδιασμού</span></a><span
+style='mso-bookmark:_Toc85489952'></span><span lang=EL style='mso-ansi-language:
+EL'><o:p></o:p></span></h2>
 
 <p class=MsoNormal style='margin-bottom:18.75pt;line-height:normal;background:
 white'><span lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;
@@ -1598,19 +2183,20 @@ mso-fareast-language:ES'>Οι μαθητές θα πρέπει να:<o:p></o:p><
 
 <ul style='margin-top:0cm' type=disc>
  <li class=MsoNormal style='color:#2C2C2C;margin-top:5.0pt;margin-bottom:5.0pt;
-     line-height:normal;mso-list:l2 level1 lfo2;background:white'><span
+     line-height:normal;mso-list:l1 level1 lfo2;background:white'><span
      lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
      "Times New Roman";mso-ansi-language:EL;mso-fareast-language:ES'>Αναζητήσουν
      στο διαδίκτυο για να βρουν πληροφορίες για τον κώδικα που θα γράψουν.<o:p></o:p></span></li>
  <li class=MsoNormal style='margin-top:5.0pt;margin-bottom:5.0pt;line-height:
-     normal;mso-list:l2 level1 lfo2;background:white'><span lang=EL
+     normal;mso-list:l1 level1 lfo2;background:white'><span lang=EL
      style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
      "Times New Roman";color:#2C2C2C;mso-ansi-language:EL;mso-fareast-language:
      ES'>Εγκαταστήσουν το απαραίτητο περιβάλλον προγραμματισμού </span><span
      style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
-     "Times New Roman";color:#2C2C2C;mso-fareast-language:ES'>Python</span></li>
+     "Times New Roman";color:#2C2C2C;mso-fareast-language:ES'>Python</span><span
+     lang=EL style='mso-ansi-language:EL'><o:p></o:p></span></li>
  <li class=MsoNormal style='margin-top:5.0pt;margin-bottom:5.0pt;line-height:
-     normal;mso-list:l2 level1 lfo2;background:white'><span lang=EL
+     normal;mso-list:l1 level1 lfo2;background:white'><span lang=EL
      style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
      "Times New Roman";color:#2C2C2C;mso-ansi-language:EL;mso-fareast-language:
      ES'>Εγκαταστήσουν τις απαραίτητες βιβλιοθηκών προγραμμάτων στο </span><span
@@ -1618,7 +2204,7 @@ mso-fareast-language:ES'>Οι μαθητές θα πρέπει να:<o:p></o:p><
      "Times New Roman";color:#2C2C2C;mso-fareast-language:ES'>Python</span><span
      lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
      "Times New Roman";color:#2C2C2C;mso-ansi-language:EL;mso-fareast-language:
-     ES'> περιβάλλον .</span></li>
+     ES'> περιβάλλον .</span><span lang=EL style='mso-ansi-language:EL'><o:p></o:p></span></li>
 </ul>
 
 <p class=MsoNormal style='margin-bottom:18.75pt;line-height:normal;background:
@@ -1626,10 +2212,10 @@ white'><span lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;
 mso-fareast-font-family:"Times New Roman";color:#2C2C2C;mso-ansi-language:EL;
 mso-fareast-language:ES'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:18.75pt;line-height:normal;background:
-white'><b><span lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#2C2C2C;mso-ansi-language:EL;
-mso-fareast-language:ES'>Φάση Υλοποίησης</span></b></p>
+<h2><a name="_Toc85489953"><span lang=EL style='mso-fareast-font-family:"Times New Roman";
+mso-ansi-language:EL;mso-fareast-language:ES'>Φάση Υλοποίησης</span></a><span
+style='mso-bookmark:_Toc85489953'></span><span lang=EL style='mso-ansi-language:
+EL'><o:p></o:p></span></h2>
 
 <p class=MsoNormal style='margin-bottom:18.75pt;line-height:normal;background:
 white'><span lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;
@@ -1638,7 +2224,7 @@ mso-fareast-language:ES'>Οι μαθητές θα πρέπει να:<o:p></o:p><
 
 <ul style='margin-top:0cm' type=disc>
  <li class=MsoNormal style='margin-top:5.0pt;margin-bottom:5.0pt;line-height:
-     normal;mso-list:l5 level1 lfo3;background:white'><span lang=EL
+     normal;mso-list:l2 level1 lfo3;background:white'><span lang=EL
      style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
      "Times New Roman";color:#2C2C2C;mso-ansi-language:EL;mso-fareast-language:
      ES'>Συλλέξουν θερμοκρασίες από το 2015-2019. Από το </span><span
@@ -1689,9 +2275,10 @@ mso-fareast-language:ES'>Οι μαθητές θα πρέπει να:<o:p></o:p><
      none;text-underline:none'>airport</span><span lang=EL style='font-size:
      12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
      color:#020202;mso-ansi-language:EL;mso-fareast-language:ES;text-decoration:
-     none;text-underline:none'>)</span></a></li>
+     none;text-underline:none'>)</span></a><span lang=EL style='mso-ansi-language:
+     EL'><o:p></o:p></span></li>
  <li class=MsoNormal style='margin-top:5.0pt;margin-bottom:5.0pt;line-height:
-     normal;mso-list:l5 level1 lfo3;background:white'><span lang=EL
+     normal;mso-list:l2 level1 lfo3;background:white'><span lang=EL
      style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
      "Times New Roman";color:#2C2C2C;mso-ansi-language:EL;mso-fareast-language:
      ES'>Ταξινομήσουν τις θερμοκρασίες στο </span><span style='font-size:12.0pt;
@@ -1699,9 +2286,10 @@ mso-fareast-language:ES'>Οι μαθητές θα πρέπει να:<o:p></o:p><
      color:#2C2C2C;mso-fareast-language:ES'>calc&nbsp;</span><span lang=EL
      style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
      "Times New Roman";color:#2C2C2C;mso-ansi-language:EL;mso-fareast-language:
-     ES'>και να βρουν τους μέσους όρους των τιμών της κάθε ημέρας.</span></li>
+     ES'>και να βρουν τους μέσους όρους των τιμών της κάθε ημέρας.</span><span
+     lang=EL style='mso-ansi-language:EL'><o:p></o:p></span></li>
  <li class=MsoNormal style='margin-top:5.0pt;margin-bottom:5.0pt;line-height:
-     normal;mso-list:l5 level1 lfo3;background:white'><span lang=EL
+     normal;mso-list:l2 level1 lfo3;background:white'><span lang=EL
      style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
      "Times New Roman";color:#2C2C2C;mso-ansi-language:EL;mso-fareast-language:
      ES'>Προγραμματίσουν στο πρόγραμμα </span><span style='font-size:12.0pt;
@@ -1713,9 +2301,10 @@ mso-fareast-language:ES'>Οι μαθητές θα πρέπει να:<o:p></o:p><
      mso-fareast-font-family:"Times New Roman";color:#2C2C2C;mso-fareast-language:
      ES'>python</span><span lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;
      mso-fareast-font-family:"Times New Roman";color:#2C2C2C;mso-ansi-language:
-     EL;mso-fareast-language:ES'> τον κώδικα του προγράμματος .</span></li>
+     EL;mso-fareast-language:ES'> τον κώδικα του προγράμματος .</span><span
+     lang=EL style='mso-ansi-language:EL'><o:p></o:p></span></li>
  <li class=MsoNormal style='margin-top:5.0pt;margin-bottom:5.0pt;line-height:
-     normal;mso-list:l5 level1 lfo3;background:white'><span lang=EL
+     normal;mso-list:l2 level1 lfo3;background:white'><span lang=EL
      style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
      "Times New Roman";color:#2C2C2C;mso-ansi-language:EL;mso-fareast-language:
      ES'>Μαζέψουν όλα τα αρχεία </span><span style='font-size:12.0pt;
@@ -1723,13 +2312,14 @@ mso-fareast-language:ES'>Οι μαθητές θα πρέπει να:<o:p></o:p><
      color:#2C2C2C;mso-fareast-language:ES'>calc&nbsp;</span><span lang=EL
      style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
      "Times New Roman";color:#2C2C2C;mso-ansi-language:EL;mso-fareast-language:
-     ES'>και να τα βάλουν στον ίδιο φάκελο με το πρόγραμμα.</span></li>
+     ES'>και να τα βάλουν στον ίδιο φάκελο με το πρόγραμμα.</span><span
+     lang=EL style='mso-ansi-language:EL'><o:p></o:p></span></li>
 </ul>
 
-<p class=MsoNormal style='margin-bottom:18.75pt;line-height:normal;background:
-white'><b><span lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#2C2C2C;mso-ansi-language:EL;
-mso-fareast-language:ES'>Φάση Δοκιμών</span></b></p>
+<h2><a name="_Toc85489954"><span lang=EL style='mso-fareast-font-family:"Times New Roman";
+mso-ansi-language:EL;mso-fareast-language:ES'>Φάση Δοκιμών</span></a><span
+style='mso-bookmark:_Toc85489954'></span><span lang=EL style='mso-ansi-language:
+EL'><o:p></o:p></span></h2>
 
 <p class=MsoNormal style='margin-bottom:18.75pt;line-height:normal;background:
 white'><span lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;
@@ -1738,28 +2328,28 @@ mso-fareast-language:ES'>Οι μαθητές θα πρέπει να:<o:p></o:p><
 
 <ul style='margin-top:0cm' type=disc>
  <li class=MsoNormal style='color:#2C2C2C;margin-top:5.0pt;margin-bottom:5.0pt;
-     line-height:normal;mso-list:l3 level1 lfo4;background:white'><span
+     line-height:normal;mso-list:l0 level1 lfo4;background:white'><span
      lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
      "Times New Roman";mso-ansi-language:EL;mso-fareast-language:ES'>Δοκιμάσουν
      το πρόγραμμα και να επιβεβαιώσουν τη σωστή λειτουργία του.<o:p></o:p></span></li>
 </ul>
 
-<p class=MsoNormal style='margin-bottom:15.0pt;line-height:normal;background:
-white'><b><span lang=EL style='font-size:13.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#828282;text-transform:uppercase;
-mso-ansi-language:EL;mso-fareast-language:ES'>ΕΙΣΑΓΩΓΗ</span></b></p>
+<h2><a name="_Toc85489955"><span lang=EL style='mso-fareast-font-family:"Times New Roman";
+mso-ansi-language:EL;mso-fareast-language:ES'>Η Ιδέα</span></a><span
+style='mso-bookmark:_Toc85489955'></span><span lang=EL style='mso-ansi-language:
+EL'><o:p></o:p></span></h2>
 
-<p class=MsoNormal style='margin-bottom:18.75pt;line-height:normal;background:
-white'><span lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#2C2C2C;mso-ansi-language:EL;
-mso-fareast-language:ES'>Η ιδέα μας ήταν να φτιάξουμε ένα πρόγραμμα πρόβλεψης
-καιρού παίρνοντας και ταξινομώντας της καταγραφές από το αρχείο των καιρικών
-συνθηκών του μετεωρολογικού σταθμού αεροδρομίου Θεσσαλονίκης. Η αρχική μας
-σκέψη ήταν να δουλέψουμε με </span><span style='font-size:12.0pt;font-family:
+<p class=MsoNormal style='margin-bottom:18.75pt;text-align:justify;line-height:
+normal;background:white'><span lang=EL style='font-size:12.0pt;font-family:
 "Arial",sans-serif;mso-fareast-font-family:"Times New Roman";color:#2C2C2C;
-mso-fareast-language:ES'>Raspberry</span><span style='font-size:12.0pt;
-font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
-color:#2C2C2C;mso-ansi-language:EL;mso-fareast-language:ES'> </span><span
+mso-ansi-language:EL;mso-fareast-language:ES'>Η ιδέα μας ήταν να φτιάξουμε ένα
+πρόγραμμα πρόβλεψης καιρού παίρνοντας και ταξινομώντας της καταγραφές από το
+αρχείο των καιρικών συνθηκών του μετεωρολογικού σταθμού αεροδρομίου
+Θεσσαλονίκης. Η αρχική μας σκέψη ήταν να δουλέψουμε με </span><span
+style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
+"Times New Roman";color:#2C2C2C;mso-fareast-language:ES'>Raspberry</span><span
+style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
+"Times New Roman";color:#2C2C2C;mso-ansi-language:EL;mso-fareast-language:ES'> </span><span
 style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
 "Times New Roman";color:#2C2C2C;mso-fareast-language:ES'>pi&nbsp;</span><span
 lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
@@ -1787,42 +2377,40 @@ mso-fareast-font-family:"Times New Roman";color:#2C2C2C;mso-fareast-language:
 ES'>Windows</span><span lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;
 mso-fareast-font-family:"Times New Roman";color:#2C2C2C;mso-ansi-language:EL;
 mso-fareast-language:ES'>, επειδή έχει πιο απλοποιημένη εργασία εγκατάστασης
-των πακέτων των βιβλιοθηκών και είναι πιο φιλικά προς αυτά.</span></p>
+των πακέτων των βιβλιοθηκών και είναι πιο φιλικά προς αυτά.</span><span
+lang=EL style='mso-ansi-language:EL'><o:p></o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:15.0pt;line-height:normal;background:
-white'><span style='font-size:13.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#828282;text-transform:uppercase;mso-fareast-language:
-ES'>ΕΦΑΡΜΟΓΕΣ ΠΟΥ ΧΡΗΣΙΜΟΠΟΙΗΣΑΜΕ:<o:p></o:p></span></p>
+<h2><a name="_Toc85489956"><span style='mso-fareast-font-family:"Times New Roman";
+mso-fareast-language:ES'>ΕΦΑΡΜΟΓΕΣ ΠΟΥ ΧΡΗΣΙΜΟΠΟΙΗΣΑΜΕ:</span></a><span
+style='mso-fareast-font-family:"Times New Roman";mso-fareast-language:ES'><o:p></o:p></span></h2>
 
 <ul style='margin-top:0cm' type=disc>
  <li class=MsoNormal style='color:#2C2C2C;margin-top:5.0pt;margin-bottom:5.0pt;
-     line-height:normal;mso-list:l1 level1 lfo5;background:white'><span
+     line-height:normal;mso-list:l3 level1 lfo5;background:white'><span
      style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
      "Times New Roman";mso-fareast-language:ES'>PyCharm Community Edition2.2<o:p></o:p></span></li>
  <li class=MsoNormal style='color:#2C2C2C;margin-top:5.0pt;margin-bottom:5.0pt;
-     line-height:normal;mso-list:l1 level1 lfo5;background:white'><span
+     line-height:normal;mso-list:l3 level1 lfo5;background:white'><span
      style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
      "Times New Roman";mso-fareast-language:ES'>Libreoffice<o:p></o:p></span></li>
  <li class=MsoNormal style='color:#2C2C2C;margin-top:5.0pt;margin-bottom:5.0pt;
-     line-height:normal;mso-list:l1 level1 lfo5;background:white'><span
+     line-height:normal;mso-list:l3 level1 lfo5;background:white'><span
      style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
      "Times New Roman";mso-fareast-language:ES'>IDLE (Python 3.10 64-bit)<o:p></o:p></span></li>
 </ul>
 
-<p class=MsoNormal style='margin-bottom:15.0pt;line-height:normal;background:
-white'><span style='font-size:13.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#828282;text-transform:uppercase;mso-fareast-language:
-ES'>ΥΛΙΚΑ ΠΟΥ ΧΡΗΣΙΜΟΠΟΙΗΣΑΜΕ<o:p></o:p></span></p>
+<h2><a name="_Toc85489957"><span style='mso-fareast-font-family:"Times New Roman";
+mso-fareast-language:ES'>ΥΛΙΚΑ ΠΟΥ ΧΡΗΣΙΜΟΠΟΙΗΣΑΜΕ</span></a><span
+style='mso-fareast-font-family:"Times New Roman";mso-fareast-language:ES'><o:p></o:p></span></h2>
 
 <p class=MsoNormal style='margin-bottom:18.75pt;line-height:normal;background:
 white'><span style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
 "Times New Roman";color:#2C2C2C;mso-fareast-language:ES'>raspberry pi4<o:p></o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:15.0pt;line-height:normal;background:
-white'><span lang=EL style='font-size:13.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#828282;text-transform:uppercase;
+<h2><a name="_Toc85489958"><span lang=EL style='mso-fareast-font-family:"Times New Roman";
 mso-ansi-language:EL;mso-fareast-language:ES'>ΥΛΙΚΑ ΠΟΥ ΘΑ ΧΡΗΣΙΜΟΠΟΙΗΘΟΥΝ ΣΕ
-ΕΠΟΜΕΝΗ ΦΑΣΗ ΤΟΥ ΕΡΓΟΥ<o:p></o:p></span></p>
+ΕΠΟΜΕΝΗ ΦΑΣΗ ΤΟΥ ΕΡΓΟΥ</span></a><span lang=EL style='mso-fareast-font-family:
+"Times New Roman";mso-ansi-language:EL;mso-fareast-language:ES'><o:p></o:p></span></h2>
 
 <p class=MsoNormal style='margin-bottom:18.75pt;line-height:normal;background:
 white'><span lang=EN-US style='font-size:12.0pt;font-family:"Arial",sans-serif;
@@ -1861,7 +2449,8 @@ style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
 lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
 "Times New Roman";color:#2C2C2C;mso-ansi-language:EL;mso-fareast-language:ES'>4.
 Ο μετεωρολογικός σταθμός θα συλλέγει πληροφορίες όπως τη στάθμη της βροχής ,
-την ταχύτητα και η πορεία του ανέμου.</span></p>
+την ταχύτητα και η πορεία του ανέμου.</span><span lang=EL style='mso-ansi-language:
+EL'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:18.75pt;line-height:normal;background:
 white'><span style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
@@ -1899,29 +2488,24 @@ src="Meteo%20Machine%20Learning%20Project.files/image007.gif"
 alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2021/10/BME280-1-300x132.png"
 v:shapes="Εικόνα_x0020_3"><![endif]></span></p>
 
-<p class=MsoNormal style='margin-bottom:15.0pt;line-height:normal;background:
-white'><b><span style='font-size:13.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#828282;text-transform:uppercase;
-mso-fareast-language:ES'>Ο</span></b><b><span style='font-size:13.5pt;
-font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
-color:#828282;text-transform:uppercase;mso-ansi-language:EN-US;mso-fareast-language:
-ES'> </span></b><b><span style='font-size:13.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#828282;text-transform:uppercase;
-mso-fareast-language:ES'>ΚΩΔΙΚΑΣ</span></b><b><span style='font-size:13.5pt;
-font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
-color:#828282;text-transform:uppercase;mso-ansi-language:EN-US;mso-fareast-language:
-ES'> </span></b><b><span style='font-size:13.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#828282;text-transform:uppercase;
-mso-fareast-language:ES'>ΜΑΣ</span></b></p>
+<h2><a name="_Toc85489959"><span style='mso-fareast-font-family:"Times New Roman";
+mso-fareast-language:ES'>Ο</span></a><span style='mso-bookmark:_Toc85489959'><span
+style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EN-US;
+mso-fareast-language:ES'> </span></span><span style='mso-bookmark:_Toc85489959'><span
+style='mso-fareast-font-family:"Times New Roman";mso-fareast-language:ES'>ΚΩΔΙΚΑΣ</span></span><span
+style='mso-bookmark:_Toc85489959'><span style='mso-fareast-font-family:"Times New Roman";
+mso-ansi-language:EN-US;mso-fareast-language:ES'> </span></span><span
+style='mso-bookmark:_Toc85489959'><span style='mso-fareast-font-family:"Times New Roman";
+mso-fareast-language:ES'>ΜΑΣ</span></span><span style='mso-bookmark:_Toc85489959'></span><span
+lang=EN-US style='mso-ansi-language:EN-US'><o:p></o:p></span></h2>
 
-<p class=MsoNormal style='margin-bottom:18.75pt;line-height:normal;background:
-white'><b><span style='font-size:12.0pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#2C2C2C;mso-fareast-language:
-ES'>Α</span></b><b><span style='font-size:12.0pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#2C2C2C;mso-ansi-language:EN-US;
-mso-fareast-language:ES'> </span></b><b><span style='font-size:12.0pt;
-font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
-color:#2C2C2C;mso-fareast-language:ES'>Μέρος</span></b></p>
+<h3><a name="_Toc85489960"><span style='mso-fareast-font-family:"Times New Roman";
+mso-fareast-language:ES'>Α</span></a><span style='mso-bookmark:_Toc85489960'><span
+style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EN-US;
+mso-fareast-language:ES'> </span></span><span style='mso-bookmark:_Toc85489960'><span
+style='mso-fareast-font-family:"Times New Roman";mso-fareast-language:ES'>Μέρος</span></span><span
+style='mso-bookmark:_Toc85489960'></span><span lang=EN-US style='mso-ansi-language:
+EN-US'><o:p></o:p></span></h3>
 
 <p class=MsoNormal style='margin-bottom:18.75pt;line-height:normal;background:
 white'><span lang=EN-US style='font-size:12.0pt;font-family:"Arial",sans-serif;
@@ -2031,7 +2615,7 @@ decimal=','<o:p></o:p></span></p>
 normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
 background:white'><span lang=EN-US style='font-size:12.0pt;font-family:"Courier New";
 mso-fareast-font-family:"Times New Roman";color:#2C2C2C;mso-ansi-language:EN-US;
-mso-fareast-language:ES'><span style='mso-spacerun:yes'>                    
+mso-fareast-language:ES'><span style='mso-spacerun:yes'>                    
 </span></span><span lang=EL style='font-size:12.0pt;font-family:"Courier New";
 mso-fareast-font-family:"Times New Roman";color:#2C2C2C;mso-ansi-language:EL;
 mso-fareast-language:ES'>, </span><span style='font-size:12.0pt;font-family:
@@ -2050,7 +2634,8 @@ color:#2C2C2C;mso-ansi-language:EL;mso-fareast-language:ES'>=</span><span
 style='font-size:12.0pt;font-family:"Courier New";mso-fareast-font-family:"Times New Roman";
 color:#2C2C2C;mso-fareast-language:ES'>True</span><span lang=EL
 style='font-size:12.0pt;font-family:"Courier New";mso-fareast-font-family:"Times New Roman";
-color:#2C2C2C;mso-ansi-language:EL;mso-fareast-language:ES'>)</span></p>
+color:#2C2C2C;mso-ansi-language:EL;mso-fareast-language:ES'>)</span><span
+lang=EL style='mso-ansi-language:EL'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
@@ -2080,7 +2665,8 @@ mso-fareast-language:ES'> και </span><span style='font-size:12.0pt;font-famil
 mso-fareast-language:ES'>seaborn</span><span lang=EL style='font-size:12.0pt;
 font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
 color:#2C2C2C;mso-ansi-language:EL;mso-fareast-language:ES'> για την
-οπτικοποίηση των υπολογισμών σε γράφημα.</span></p>
+οπτικοποίηση των υπολογισμών σε γράφημα.</span><span lang=EL style='mso-ansi-language:
+EL'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:18.75pt;line-height:normal;background:
 white'><span lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;
@@ -2089,10 +2675,9 @@ mso-fareast-language:ES'>Στο τελευταίο τμήμα εισάγουμε
 αρχείο που έχουμε ετοιμάσει με τους μ.ο θερμοκρασίας για μια χρονική περίοδο 4 ετών
 περίπου.<o:p></o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:18.75pt;line-height:normal;background:
-white'><b><span style='font-size:12.0pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#2C2C2C;mso-fareast-language:
-ES'>Β΄Μέρος</span></b></p>
+<h3><a name="_Toc85489961"><span style='mso-fareast-font-family:"Times New Roman";
+mso-fareast-language:ES'>Β΄Μέρος</span></a><span style='mso-bookmark:_Toc85489961'></span><span
+lang=EN-US style='mso-ansi-language:EN-US'><o:p></o:p></span></h3>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
@@ -2183,22 +2768,15 @@ background:white'><span lang=EL style='font-size:12.0pt;font-family:"Georgia",se
 mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
 color:#2C2C2C;mso-ansi-language:EL;mso-fareast-language:ES'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
-background:white'><b><span style='font-size:12.0pt;font-family:"Georgia",serif;
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
-color:#2C2C2C;mso-fareast-language:ES'>Γ΄</span></b><b><span style='font-size:
-12.0pt;font-family:"Georgia",serif;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:#2C2C2C;mso-ansi-language:EN-US;
-mso-fareast-language:ES'> </span></b><b><span style='font-size:12.0pt;
-font-family:"Georgia",serif;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:#2C2C2C;mso-fareast-language:ES'>Μέρος</span></b><b><span
-style='font-size:12.0pt;font-family:"Georgia",serif;mso-fareast-font-family:
-"Times New Roman";mso-bidi-font-family:"Courier New";color:#2C2C2C;mso-ansi-language:
-EN-US;mso-fareast-language:ES'> </span></b><span style='font-size:12.0pt;
-font-family:"Georgia",serif;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:#2C2C2C;mso-ansi-language:EN-US;
-mso-fareast-language:ES'><span style='mso-spacerun:yes'> </span></span></p>
+<h3><a name="_Toc85489962"><span style='mso-fareast-font-family:"Times New Roman";
+mso-fareast-language:ES'>Γ΄</span></a><span style='mso-bookmark:_Toc85489962'><span
+style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EN-US;
+mso-fareast-language:ES'> </span></span><span style='mso-bookmark:_Toc85489962'><span
+style='mso-fareast-font-family:"Times New Roman";mso-fareast-language:ES'>Μέρος</span></span><span
+style='mso-bookmark:_Toc85489962'></span><span style='mso-fareast-font-family:
+"Times New Roman";mso-ansi-language:EN-US;mso-fareast-language:ES'> <span
+style='mso-spacerun:yes'> </span></span><span lang=EN-US style='mso-ansi-language:
+EN-US'><o:p></o:p></span></h3>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
@@ -2310,7 +2888,8 @@ mso-fareast-language:ES'>.</span><span style='font-size:12.0pt;font-family:
 "Courier New";mso-fareast-font-family:"Times New Roman";color:#2C2C2C;
 mso-fareast-language:ES'>show</span><span lang=EL style='font-size:12.0pt;
 font-family:"Courier New";mso-fareast-font-family:"Times New Roman";color:#2C2C2C;
-mso-ansi-language:EL;mso-fareast-language:ES'>()</span></p>
+mso-ansi-language:EL;mso-fareast-language:ES'>()</span><span lang=EL
+style='mso-ansi-language:EL'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
@@ -2327,16 +2906,16 @@ color:#2C2C2C;mso-ansi-language:EL;mso-fareast-language:ES'>Σε αυτό το �
 </span><span lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;
 mso-fareast-font-family:"Times New Roman";color:#2C2C2C;mso-ansi-language:EL;
 mso-fareast-language:ES'>Υπολογίζει και τυπώνει τους μέσους όρους τιμών και
-στην συνέχεια τυπώνει την καθημερινή θερμοκρασιακή αλλαγή σε γράφημα.</span></p>
+στην συνέχεια τυπώνει την καθημερινή θερμοκρασιακή αλλαγή σε γράφημα.</span><span
+lang=EL style='mso-ansi-language:EL'><o:p></o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:18.75pt;line-height:normal;background:
-white'><b><span style='font-size:12.0pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#2C2C2C;mso-fareast-language:
-ES'>Δ΄</span></b><b><span style='font-size:12.0pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#2C2C2C;mso-ansi-language:EN-US;
-mso-fareast-language:ES'> </span></b><b><span style='font-size:12.0pt;
-font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
-color:#2C2C2C;mso-fareast-language:ES'>Μέρος</span></b></p>
+<h3><a name="_Toc85489963"><span style='mso-fareast-font-family:"Times New Roman";
+mso-fareast-language:ES'>Δ΄</span></a><span style='mso-bookmark:_Toc85489963'><span
+style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EN-US;
+mso-fareast-language:ES'> </span></span><span style='mso-bookmark:_Toc85489963'><span
+style='mso-fareast-font-family:"Times New Roman";mso-fareast-language:ES'>Μέρος</span></span><span
+style='mso-bookmark:_Toc85489963'></span><span lang=EN-US style='mso-ansi-language:
+EN-US'><o:p></o:p></span></h3>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
@@ -2608,7 +3187,8 @@ background:white'><span style='font-size:12.0pt;font-family:"Courier New";
 mso-fareast-font-family:"Times New Roman";color:#2C2C2C;mso-fareast-language:
 ES'>print</span><span lang=EL style='font-size:12.0pt;font-family:"Courier New";
 mso-fareast-font-family:"Times New Roman";color:#2C2C2C;mso-ansi-language:EL;
-mso-fareast-language:ES'>(&quot;</span></p>
+mso-fareast-language:ES'>(&quot;</span><span lang=EL style='mso-ansi-language:
+EL'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
@@ -2628,11 +3208,13 @@ color:#2C2C2C;mso-ansi-language:EL;mso-fareast-language:ES'>_</span><span
 style='font-size:12.0pt;font-family:"Courier New";mso-fareast-font-family:"Times New Roman";
 color:#2C2C2C;mso-fareast-language:ES'>err</span><span lang=EL
 style='font-size:12.0pt;font-family:"Courier New";mso-fareast-font-family:"Times New Roman";
-color:#2C2C2C;mso-ansi-language:EL;mso-fareast-language:ES'>)</span></p>
+color:#2C2C2C;mso-ansi-language:EL;mso-fareast-language:ES'>)</span><span
+lang=EL style='mso-ansi-language:EL'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:18.75pt;line-height:normal;background:
 white'><span style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#2C2C2C;mso-fareast-language:ES'>&nbsp;</span></p>
+"Times New Roman";color:#2C2C2C;mso-fareast-language:ES'>&nbsp;</span><span
+lang=EL style='mso-ansi-language:EL'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:18.75pt;line-height:normal;background:
 white'><span lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;
@@ -2646,7 +3228,7 @@ mso-fareast-language:ES'> που γίνεται η χρήση περίπλοκω
 συναρτήσεων, όπως η χρήση του κινητού μέσου όρου τιμών, η αφαίρεση του
 «θορύβου» τιμών, δηλαδή τιμών που δεν ταιριάζουν με το μοτίβο των χρονοσειρών
 και οι υπολογισμοί προβλέψεων των τιμών Θερμοκρασίας μιας μέρας σε σχέση με την
-προηγούμενη της.</span></p>
+προηγούμενη της.</span><span lang=EL style='mso-ansi-language:EL'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:18.75pt;line-height:normal;background:
 white'><span lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;
@@ -2673,12 +3255,13 @@ lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-
 κοντά στον αριθμό 1, ειδικά και για μετεωρολογική πρόβλεψη, όπου υπάρχουν
 πολλοί αστάθμιστοι παράγοντες που μπορεί να επηρεάσουν την τιμή της
 θερμοκρασίας, είναι απολύτως αποδεκτή και ικανή να μας δείξει ότι το μοντέλο
-πρόβλεψης που προγραμματίσαμε είναι αρκετά κοντά στα πραγματικά δεδομένα.</span></p>
+πρόβλεψης που προγραμματίσαμε είναι αρκετά κοντά στα πραγματικά δεδομένα.</span><span
+lang=EL style='mso-ansi-language:EL'><o:p></o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:15.0pt;line-height:normal;background:
-white'><span lang=EL style='font-size:13.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#828282;text-transform:uppercase;
-mso-ansi-language:EL;mso-fareast-language:ES'>ΟΘΟΝΕΣ ΥΠΟΛΟΓΙΣΜΩΝ ΠΡΟΓΡΑΜΜΑΤΟΣ<o:p></o:p></span></p>
+<h2><a name="_Toc85489964"><span lang=EL style='mso-fareast-font-family:"Times New Roman";
+mso-ansi-language:EL;mso-fareast-language:ES'>ΟΘΟΝΕΣ ΥΠΟΛΟΓΙΣΜΩΝ ΠΡΟΓΡΑΜΜΑΤΟΣ</span></a><span
+lang=EL style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:
+EL;mso-fareast-language:ES'><o:p></o:p></span></h2>
 
 <p class=MsoNormal style='margin-bottom:18.75pt;line-height:normal;background:
 white'><span lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;
@@ -2704,7 +3287,7 @@ lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-
 2019-05-20 21.2<br>
 2019-05-19 21.1<br>
 2019-05-18 20.3<br>
-2019-05-17 19.6</span></p>
+2019-05-17 19.6</span><span lang=EL style='mso-ansi-language:EL'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:18.75pt;line-height:normal;background:
 white'><span style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
@@ -2727,7 +3310,7 @@ lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-
 2015-09-10 23.800<br>
 2015-09-09 27.150<br>
 2015-09-08 28.200<br>
-2015-09-07 26.550</span></p>
+2015-09-07 26.550</span><span lang=EL style='mso-ansi-language:EL'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:18.75pt;line-height:normal;background:
 white'><span style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
@@ -2751,11 +3334,12 @@ style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
 lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
 "Times New Roman";color:#2C2C2C;mso-ansi-language:EL;mso-fareast-language:ES'><br>
 2016-06-25 31.425<br>
-2017-01-08 -6.15</span></p>
+2017-01-08 -6.15</span><span lang=EL style='mso-ansi-language:EL'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:18.75pt;line-height:normal;background:
 white'><span style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#2C2C2C;mso-fareast-language:ES'>&nbsp;</span></p>
+"Times New Roman";color:#2C2C2C;mso-fareast-language:ES'>&nbsp;</span><span
+lang=EL style='mso-ansi-language:EL'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:15.0pt;line-height:normal;background:
 white'><b><span style='font-size:13.5pt;font-family:"Arial",sans-serif;
@@ -2763,7 +3347,8 @@ mso-fareast-font-family:"Times New Roman";color:#828282;text-transform:uppercase
 mso-fareast-language:ES'>H</span></b><b><span lang=EL style='font-size:13.5pt;
 font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
 color:#828282;text-transform:uppercase;mso-ansi-language:EL;mso-fareast-language:
-ES'> ΡΙΖΑ ΜΕΣΟΥ ΤΕΤΡΑΓΩΝΙΚΟΥ ΣΦΑΛΜΑΤΟΣ ΕΙΝΑΙ 1.831628421656742</span></b></p>
+ES'> ΡΙΖΑ ΜΕΣΟΥ ΤΕΤΡΑΓΩΝΙΚΟΥ ΣΦΑΛΜΑΤΟΣ ΕΙΝΑΙ 1.831628421656742</span></b><span
+lang=EL style='mso-ansi-language:EL'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:18.75pt;line-height:normal;background:
 white'><span lang=EN-US style='font-size:12.0pt;font-family:"Arial",sans-serif;
@@ -2805,10 +3390,10 @@ white'><span lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;
 mso-fareast-font-family:"Times New Roman";color:#2C2C2C;mso-ansi-language:EL;
 mso-fareast-language:ES'>Γράφημα εξομάλυνσης μέσων τιμών Θερμοκρασίας<o:p></o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:15.0pt;line-height:normal;background:
-white'><span lang=EL style='font-size:13.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#828282;text-transform:uppercase;
-mso-ansi-language:EL;mso-fareast-language:ES'>ΙΣΤΟΣΕΛΙΔΕΣ ΠΟΥ ΕΠΙΣΚΕΦΤΗΚΑΜΕ:<o:p></o:p></span></p>
+<h2><a name="_Toc85489965"><span lang=EL style='mso-fareast-font-family:"Times New Roman";
+mso-ansi-language:EL;mso-fareast-language:ES'>ΙΣΤΟΣΕΛΙΔΕΣ ΠΟΥ ΕΠΙΣΚΕΦΤΗΚΑΜΕ:</span></a><span
+lang=EL style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:
+EL;mso-fareast-language:ES'><o:p></o:p></span></h2>
 
 <ul style='margin-top:0cm' type=disc>
  <li class=MsoNormal style='margin-top:5.0pt;margin-bottom:5.0pt;line-height:
@@ -2903,7 +3488,8 @@ mso-ansi-language:EL;mso-fareast-language:ES'>ΙΣΤΟΣΕΛΙΔΕΣ ΠΟΥ ΕΠ
      none;text-underline:none'>f</span><span lang=EL style='font-size:12.0pt;
      font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
      color:#020202;mso-ansi-language:EL;mso-fareast-language:ES;text-decoration:
-     none;text-underline:none'>71</span></a></li>
+     none;text-underline:none'>71</span></a><span lang=EL style='mso-ansi-language:
+     EL'><o:p></o:p></span></li>
  <li class=MsoNormal style='margin-top:5.0pt;margin-bottom:5.0pt;line-height:
      normal;mso-list:l4 level1 lfo6;background:white'><a
      href="https://github.com/imkhoa99/Time-Series-Analysis-and-Weather-Forecast-/blob/master/Time_Series_Project.ipynb"><span
@@ -2992,26 +3578,30 @@ mso-ansi-language:EL;mso-fareast-language:ES'>ΙΣΤΟΣΕΛΙΔΕΣ ΠΟΥ ΕΠ
      mso-ansi-language:EL;mso-fareast-language:ES;text-decoration:none;
      text-underline:none'>.</span><span style='font-size:12.0pt;font-family:
      "Arial",sans-serif;mso-fareast-font-family:"Times New Roman";color:#020202;
-     mso-fareast-language:ES;text-decoration:none;text-underline:none'>ipynb</span></a></li>
+     mso-fareast-language:ES;text-decoration:none;text-underline:none'>ipynb</span></a><span
+     lang=EL style='mso-ansi-language:EL'><o:p></o:p></span></li>
  <li class=MsoNormal style='margin-top:5.0pt;margin-bottom:5.0pt;line-height:
      normal;mso-list:l4 level1 lfo6;background:white'><a
      href="https://itsoyrcecode.com/free-projects/python%20-projects/weather-forecast-projects-in-python-with-source-code/"><span
      lang=EN-US style='font-size:12.0pt;font-family:"Arial",sans-serif;
      mso-fareast-font-family:"Times New Roman";color:#020202;mso-ansi-language:
      EN-US;mso-fareast-language:ES;text-decoration:none;text-underline:none'>https://itsoyrcecode.com/free-projects/python
-     -projects/weather-forecast-projects-in-python-with-source-code/</span></a></li>
+     -projects/weather-forecast-projects-in-python-with-source-code/</span></a><span
+     lang=EN-US style='mso-ansi-language:EN-US'><o:p></o:p></span></li>
  <li class=MsoNormal style='margin-top:5.0pt;margin-bottom:5.0pt;line-height:
      normal;mso-list:l4 level1 lfo6;background:white'><a
      href="https://www.jetbrains.com/pycharm/download/#section=windows"><span
      lang=EN-US style='font-size:12.0pt;font-family:"Arial",sans-serif;
      mso-fareast-font-family:"Times New Roman";color:#020202;mso-ansi-language:
-     EN-US;mso-fareast-language:ES;text-decoration:none;text-underline:none'>https://www.jetbrains.com/pycharm/download/#section=windows</span></a></li>
+     EN-US;mso-fareast-language:ES;text-decoration:none;text-underline:none'>https://www.jetbrains.com/pycharm/download/#section=windows</span></a><span
+     lang=EN-US style='mso-ansi-language:EN-US'><o:p></o:p></span></li>
  <li class=MsoNormal style='margin-top:5.0pt;margin-bottom:5.0pt;line-height:
      normal;mso-list:l4 level1 lfo6;background:white'><a
      href="https://www.winzip.com/en/product/winzip/trial-thank-you.html?dwn=thankyou-wz-win"><span
      lang=EN-US style='font-size:12.0pt;font-family:"Arial",sans-serif;
      mso-fareast-font-family:"Times New Roman";color:#020202;mso-ansi-language:
-     EN-US;mso-fareast-language:ES;text-decoration:none;text-underline:none'>https://www.winzip.com/en/product/winzip/trial-thank-you.html?dwn=thankyou-wz-win</span></a></li>
+     EN-US;mso-fareast-language:ES;text-decoration:none;text-underline:none'>https://www.winzip.com/en/product/winzip/trial-thank-you.html?dwn=thankyou-wz-win</span></a><span
+     lang=EN-US style='mso-ansi-language:EN-US'><o:p></o:p></span></li>
 </ul>
 
 <p class=MsoNormal style='margin-bottom:18.75pt;line-height:normal;background:
@@ -3058,7 +3648,8 @@ lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-
 "Times New Roman";color:#020202;mso-ansi-language:EL;mso-fareast-language:ES;
 text-decoration:none;text-underline:none'>_</span><span style='font-size:12.0pt;
 font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
-color:#020202;mso-fareast-language:ES;text-decoration:none;text-underline:none'>Project</span></a></p>
+color:#020202;mso-fareast-language:ES;text-decoration:none;text-underline:none'>Project</span></a><span
+lang=EL style='mso-ansi-language:EL'><o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EL style='mso-ansi-language:EL'><o:p>&nbsp;</o:p></span></p>
 
