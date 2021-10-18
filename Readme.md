@@ -1643,10 +1643,10 @@ white'><span style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-
 </v:shapetype><v:shape id="Εικόνα_x0020_6" o:spid="_x0000_i1030" type="#_x0000_t75"
  alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2021/10/Machine_learnng--300x151.png"
  style='width:519.75pt;height:261.75pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="Photos/Machine_learnng.png"
+ <v:imagedata src="Photos/image001.png"
   o:title="Machine_learnng--300x151"/>
 </v:shape><![endif]--><![if !vml]><img width=693 height=349
-src="Photos/Machine_learnng.png"
+src="Photos/image002.gif"
 alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2021/10/Machine_learnng--300x151.png"
 v:shapes="Εικόνα_x0020_6"><![endif]></span></p>
 
@@ -2457,10 +2457,10 @@ white'><span style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-
 "Times New Roman";color:#2C2C2C;mso-fareast-language:ES;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
  id="Εικόνα_x0020_5" o:spid="_x0000_i1029" type="#_x0000_t75" alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2021/10/Rasperry-Pi4-300x187.png"
  style='width:225pt;height:140.25pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="Meteo%20Machine%20Learning%20Project.files/image003.png"
+ <v:imagedata src="Photos/image003.png"
   o:title="Rasperry-Pi4-300x187"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=300 height=187
-src="Meteo%20Machine%20Learning%20Project.files/image004.gif"
+src="Photos/image004.gif"
 alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2021/10/Rasperry-Pi4-300x187.png"
 v:shapes="Εικόνα_x0020_5"><![endif]></span><span lang=EN-US style='font-size:
 12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
@@ -2469,10 +2469,10 @@ style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
 "Times New Roman";color:#2C2C2C;mso-fareast-language:ES;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
  id="Εικόνα_x0020_4" o:spid="_x0000_i1028" type="#_x0000_t75" alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2021/10/Weathe-Meteo-Kit-300x300.jpg"
  style='width:225pt;height:225pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="Meteo%20Machine%20Learning%20Project.files/image005.jpg"
+ <v:imagedata src="Photos/image005.jpg"
   o:title="Weathe-Meteo-Kit-300x300"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=300 height=300
-src="Meteo%20Machine%20Learning%20Project.files/image005.jpg"
+src="Photos/image005.jpg"
 alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2021/10/Weathe-Meteo-Kit-300x300.jpg"
 v:shapes="Εικόνα_x0020_4"><![endif]></span><span lang=EN-US style='font-size:
 12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
@@ -2481,10 +2481,10 @@ style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
 "Times New Roman";color:#2C2C2C;mso-fareast-language:ES;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
  id="Εικόνα_x0020_3" o:spid="_x0000_i1027" type="#_x0000_t75" alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2021/10/BME280-1-300x132.png"
  style='width:225pt;height:99pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="Meteo%20Machine%20Learning%20Project.files/image006.png"
+ <v:imagedata src="Photos/image006.png"
   o:title="BME280-1-300x132"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=300 height=132
-src="Meteo%20Machine%20Learning%20Project.files/image007.gif"
+src="Photos/image007.gif"
 alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2021/10/BME280-1-300x132.png"
 v:shapes="Εικόνα_x0020_3"><![endif]></span></p>
 
@@ -3360,10 +3360,10 @@ white'><span style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-
 "Times New Roman";color:#2C2C2C;mso-fareast-language:ES;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
  id="Εικόνα_x0020_2" o:spid="_x0000_i1026" type="#_x0000_t75" alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2021/10/Machine_learnng--300x151.png"
  style='width:362.25pt;height:182.25pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="Meteo%20Machine%20Learning%20Project.files/image001.png"
+ <v:imagedata src="Photos/image001.png"
   o:title="Machine_learnng--300x151"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=483 height=243
-src="Meteo%20Machine%20Learning%20Project.files/image008.gif"
+src="Photos/image008.gif"
 alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2021/10/Machine_learnng--300x151.png"
 v:shapes="Εικόνα_x0020_2"><![endif]></span></p>
 
@@ -3378,10 +3378,10 @@ white'><span style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-
 "Times New Roman";color:#2C2C2C;mso-fareast-language:ES;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
  id="Εικόνα_x0020_1" o:spid="_x0000_i1025" type="#_x0000_t75" alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2021/10/Smoothing_Graph-300x161.png"
  style='width:368.25pt;height:198pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="Meteo%20Machine%20Learning%20Project.files/image009.png"
+ <v:imagedata src="Photos/image009.png"
   o:title="Smoothing_Graph-300x161"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=491 height=264
-src="Meteo%20Machine%20Learning%20Project.files/image010.gif"
+src="Photos/image010.gif"
 alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2021/10/Smoothing_Graph-300x161.png"
 v:shapes="Εικόνα_x0020_1"><![endif]></span></p>
 
