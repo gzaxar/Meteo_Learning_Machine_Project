@@ -2457,7 +2457,7 @@ white'><span style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-
  <v:imagedata src="Photos/Raspberry4.png"
   o:title="Rasperry-Pi4-300x187"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=300 height=187
-src="Photos/image004.gif"
+src="Photos/Raspberry4.png"
 alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2021/10/Rasperry-Pi4-300x187.png"
 v:shapes="Εικόνα_x0020_5"><![endif]></span><span lang=EN-US style='font-size:
 12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
@@ -2478,7 +2478,7 @@ style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
 "Times New Roman";color:#2C2C2C;mso-fareast-language:ES;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
  id="Εικόνα_x0020_3" o:spid="_x0000_i1027" type="#_x0000_t75" alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2021/10/BME280-1-300x132.png"
  style='width:225pt;height:99pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="Photos/image006.png"
+ <v:imagedata src="Photos/BME280-1.png"
   o:title="BME280-1-300x132"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=300 height=132
 src="Photos/image007.gif"
@@ -3375,7 +3375,7 @@ white'><span style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-
 "Times New Roman";color:#2C2C2C;mso-fareast-language:ES;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
  id="Εικόνα_x0020_1" o:spid="_x0000_i1025" type="#_x0000_t75" alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2021/10/Smoothing_Graph-300x161.png"
  style='width:368.25pt;height:198pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="Photos/image009.png"
+ <v:imagedata src="Photos/Smoothing_Graph.png"
   o:title="Smoothing_Graph-300x161"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=491 height=264
 src="Photos/image010.gif"
