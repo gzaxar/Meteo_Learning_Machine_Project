@@ -3360,7 +3360,7 @@ white'><span style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-
 "Times New Roman";color:#2C2C2C;mso-fareast-language:ES;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
  id="Εικόνα_x0020_2" o:spid="_x0000_i1026" type="#_x0000_t75" alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2021/10/Machine_learnng--300x151.png"
  style='width:362.25pt;height:182.25pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="Photos/image001.png"
+ <v:imagedata src="Photos/Machine_learnng .png"
   o:title="Machine_learnng--300x151"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=483 height=243
 src="Photos/image008.gif"
