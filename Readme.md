@@ -2481,7 +2481,7 @@ style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
  <v:imagedata src="Photos/BME280-1.png"
   o:title="BME280-1-300x132"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=300 height=132
-src="Photos/image007.gif"
+src="Photos/BME280-1.png"
 alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2021/10/BME280-1-300x132.png"
 v:shapes="Εικόνα_x0020_3"><![endif]></span></p>
 
