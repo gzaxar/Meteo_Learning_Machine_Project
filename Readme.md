@@ -3360,7 +3360,7 @@ white'><span style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-
  <v:imagedata src="Photos/Machine_learnng .png"
   o:title="Machine_learnng--300x151"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=483 height=243
-src="Photos/image008.gif"
+src="Photos/Machine_learnng .png"
 alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2021/10/Machine_learnng--300x151.png"
 v:shapes="Εικόνα_x0020_2"><![endif]></span></p>
 
